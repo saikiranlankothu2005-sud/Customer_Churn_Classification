@@ -4,7 +4,7 @@ This project analyzes customer churn data to predict whether a customer will chu
 1.  **Clone the repository or download the files.**
 2.  **Create a virtual environment (recommended):**
     ```bash
-    python -m venv venv
+    python -m venv venv 
     ```
 3.  **Activate the virtual environment:**
     *   On Windows:
